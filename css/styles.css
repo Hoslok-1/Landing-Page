@@ -1,0 +1,35 @@
+.header
+{
+    background: #000000;
+    margin-top: -16px;
+    display: flex;
+    justify-content:space-between;
+}
+
+.right-links, .left-links
+{
+    display: flex;
+    gap:42px;
+    margin-top: 31px;
+}
+
+.right-links
+{
+    margin-right: 10px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a
+{
+    color:#EDF5E1
+}
+
+body
+{
+    margin:0;
+    background-color: #8EE4AF;
+    font-family:'Courier New', Courier, monospace;
+}
